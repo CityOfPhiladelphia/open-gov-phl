@@ -13,7 +13,7 @@ The details outlined in this first version of the City of Philadelphia’s Open 
 ## Sections
 
 * [Introduction](open-gov-phl/wiki/Introduction)
-* [Transparency](open-gov-phl//wiki/Transparency)
-* [Public Participation](open-gov-phl//wiki/Public-Participation)
-* [Collaboration](open-gov-phl//wiki/Collaboration)
-* [Conclusion](open-gov-phl//wiki/Conclusion)
+* [Transparency](open-gov-phl/wiki/Transparency)
+* [Public Participation](open-gov-phl/wiki/Public-Participation)
+* [Collaboration](open-gov-phl/wiki/Collaboration)
+* [Conclusion](open-gov-phl/wiki/Conclusion)
