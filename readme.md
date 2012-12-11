@@ -12,7 +12,7 @@ The details outlined in this first version of the City of Philadelphia’s Open 
 
 ## Sections
 
-* [Introduction](/wiki/Introduction)
+* [Introduction](wiki/Introduction)
 * [Transparency](/wiki/Transparency)
 * [Public Participation](/wiki/Public-Participation)
 * [Collaboration](/wiki/Collaboration)
