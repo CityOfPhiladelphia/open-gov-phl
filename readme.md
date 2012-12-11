@@ -1,6 +1,6 @@
 #Open Government Plan for The City of Philadelphia
 
-Executive Order 1-12, signed by Mayor Michael Nutter in April of 2012, established a formal open data policy for the City of Philadelphia. As part of the Mayor’s Executive Order, this Open Government Plan is intended to outline specific objectives to incorporate the principles of open government into City operations and daily activities.
+[Executive Order 1-12](https://gist.github.com/3623582), signed by Mayor Michael Nutter in April of 2012, established a formal open data policy for the City of Philadelphia. As part of the Mayor’s Executive Order, this Open Government Plan is intended to outline specific objectives to incorporate the principles of open government into City operations and daily activities.
 
 This plan will also provide background on the City’s open data and open government efforts to date, and will identify a series of objectives that will be pursued to institutionalize the Mayor’s vision for open government in the City of Philadelphia. 
 
@@ -12,8 +12,8 @@ The details outlined in this first version of the City of Philadelphia’s Open 
 
 ## Sections
 
-Introduction
-Transparency
-Public Participation
-Collaboration
-Conclusion
+* Introduction
+* Transparency
+* Public Participation
+* Collaboration
+* Conclusion
