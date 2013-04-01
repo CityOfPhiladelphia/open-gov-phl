@@ -12,8 +12,8 @@ The details outlined in this first version of the City of Philadelphia’s Open 
 
 ## Sections
 
-* [Introduction](wiki/Introduction)
-* [Transparency](wiki/Transparency)
-* [Public Participation](wiki/Public-Participation)
-* [Collaboration](wiki/Collaboration)
-* [Conclusion](wiki/Conclusion)
+* [Introduction](https://github.com/CityOfPhiladelphia/open-gov-phl/wiki/Introduction)
+* [Transparency](https://github.com/CityOfPhiladelphia/open-gov-phl/wiki/Transparency)
+* [Public Participation](https://github.com/CityOfPhiladelphia/open-gov-phl/wiki/Public-Participation)
+* [Collaboration](https://github.com/CityOfPhiladelphia/open-gov-phl/wiki/Collaboration)
+* [Conclusion](https://github.com/CityOfPhiladelphia/open-gov-phl/wiki/Conclusion)
